@@ -1,1 +1,1 @@
-print('Hello from n8n')
+print('Hello from n8n, this is a longer message!')
